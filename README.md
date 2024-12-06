@@ -9,7 +9,7 @@ This repository is a collection of tasks and projects focused on software qualit
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](https://github.com/Arikatakur/QA-and-Testing-Scenarios/tree/main?tab=MIT-1-ov-file)
 
 ## Overview
 
