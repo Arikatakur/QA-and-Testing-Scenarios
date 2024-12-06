@@ -49,4 +49,4 @@ The repository includes:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/YourUsername/QA_and_Testing_Scenarios.git
+   git clone https://github.com/Arikatakur/QA_and_Testing_Scenarios.git
